@@ -1,4 +1,4 @@
-# Experiment 3 – Face and Eye Detection using Haar Cascade
+# Experiment 2 – Face and Eye Detection using Haar Cascade
 
 ## Aim
 
@@ -21,7 +21,6 @@ To use pretrained Haar Cascade classifiers to detect faces and eyes in an image 
 Haar Cascade is a machine-learning-based object detection technique used to detect objects such as faces and eyes.<br>
 First ever method introduced to detect faces and objects
 
-
 OpenCV provides pretrained Haar Cascade classifiers, so the classifiers do not need to be trained manually for this experiment.
 
 The classifiers used are:
@@ -32,6 +31,7 @@ haarcascade_eye.xml
 ```
 
 ---
+
 ### 2. Haar-like Features
 
 Haar-like features are simple rectangular features used to identify patterns based on differences in pixel intensity.
@@ -56,8 +56,6 @@ Because the classifiers are arranged like a series of stages.
 
 ![Cascade classifier](./cascade_classifier.png)
 
-
 ## Complete PipeLine
 
 ![Complete Pipeline](./pipeline.png)
-
