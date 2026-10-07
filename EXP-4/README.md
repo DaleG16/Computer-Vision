@@ -1,4 +1,4 @@
-# SIFT Feature Detection and Matching
+# Prg 4: Detect and match features in two images. Use SIFT
 
 ## Theory
 
