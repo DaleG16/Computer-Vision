@@ -75,7 +75,7 @@ SIFT and similar feature-based methods are used in:
 
 ### Results
 
-![Result](results.png)
+![Result](result.png)
 
 ### Image Source
 
