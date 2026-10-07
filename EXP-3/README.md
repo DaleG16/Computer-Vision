@@ -133,6 +133,12 @@ The model predicts Class 9 because it has the highest probability.
 
 ---
 
+### 9. CNN Architecture
+
+![CNN Architecture](exp-3.png)
+
+---
+
 ### 9. Loss Function
 
 The model uses **categorical cross-entropy** as the loss function.
